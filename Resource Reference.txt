@@ -1,0 +1,8 @@
+﻿This is my first python project that I’m using to get more familiar with the python syntax.
+
+
+Resources used:
+
+
+* Youtube Tutorial: https://www.youtube.com/watch?v=21FnnGKSRZo 
+* Game template: http://cs.gettysburg.edu/projects/pig/piggame.html
